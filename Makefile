@@ -3,4 +3,4 @@ all: src/*.java
 run:
 	java Main 2108
 clean:
-	rm -r out/
+	rm *.class
